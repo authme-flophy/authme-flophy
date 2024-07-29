@@ -13,7 +13,7 @@
 ### FreeLance gigs:
 - [BrightSideCommunity](https://www.brightsidecommunity.org/) is a community base organization est. in 2017 to address the specific needs of women, girls and youth among the pastoral communities in Kajiado County, Kenya.
 
-### Personal projects on a different repositories:
+### Personal projects on different repositories:
 |Live Link | Source Code|
 |-------------------|-------------------|
 |[Resume Builder](https://resume-builder-full.netlify.app/)|[github repo: backend](https://github.com/authme-flophy/resume-builder-backend) <br> [github repo: frontend](https://github.com/authme-flophy/resume-builder-front)|
