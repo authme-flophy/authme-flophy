@@ -10,9 +10,6 @@
 - [x] Ruby
 - [x] Rails
 
-### FreeLance gigs:
-- [BrightSideCommunity](https://www.brightsidecommunity.org/) is a community base organization est. in 2017 to address the specific needs of women, girls and youth among the pastoral communities in Kajiado County, Kenya.
-
 ### Personal projects on different repositories:
 |Live Link | Source Code|
 |-------------------|-------------------|
